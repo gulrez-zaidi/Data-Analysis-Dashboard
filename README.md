@@ -6,21 +6,14 @@ The Vrinda Store wants to create an annual sales report for 2023. So that, the o
 - <a href="https://github.com/gulrez-zaidi/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Raw%20Data.xlsx">Raw Dataset</a>
 
 ## Questions (KPIs)
-Compare the sales and orders using single chart.
-
-Which month got the highest sales and orders?
-
-Who purchased more - Men or Women?
-
-What are different order status in 2022?
-
-List top 10 states contributingto the sales?
-
-Relation between age and gender based on number of orders.
-
-Which Channel is contributing maximum to the sales?
-
-Percentage of Total Orders delivered
+- Compare the sales and orders using single chart.
+- Which month got the highest sales and orders?
+- Who purchased more - Men or Women?
+- What are different order status in 2022?
+- List top 10 states contributingto the sales?
+- Relation between age and gender based on number of orders.
+- Which Channel is contributing maximum to the sales?
+- Percentage of Total Orders delivered
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
