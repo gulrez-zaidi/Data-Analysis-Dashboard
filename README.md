@@ -20,8 +20,6 @@ Relation between age and gender based on number of orders.
 
 Which Channel is contributing maximum to the sales?
 
-Highest selling category?
-
 Percentage of Total Orders delivered
 
 ## Process
